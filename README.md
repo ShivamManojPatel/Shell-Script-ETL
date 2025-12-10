@@ -59,7 +59,7 @@ Check before running the script
 Author
 -------------------------------------
 **Shivam Patel** <br>
-Course: CSCI 5305 - Linux/Unix System
-University of Central Arkansas - Department of Computer Science
+Course: CSCI 5305 - Linux/Unix System <br>
+University of Central Arkansas - Department of Computer Science <br>
 LinkedIn: https://www.linkedin.com/in/shivampatel19/
 
