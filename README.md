@@ -7,7 +7,7 @@ Name: Shivam Patel
 How to run the script
 -------------------------------------
 Usage:
-    ./etl.sh <private-key> <remote-server> <remote-user> <remote-file> <mysql-user> <mysql-db>
+    ./etl.sh (private-key) (remote-server) (remote-user) (remote-file) (mysql-user) (mysql-db)
 
 
 -------------------------------------
