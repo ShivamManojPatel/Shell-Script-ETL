@@ -51,7 +51,7 @@ Notes
 -------------------------------------
 Check before running script
 -------------------------------------
-- There should be just 2 file inside the folder. Which are README.txt and etl.sh. all other files should be deleted.
+- There should be just 2 file inside the folder. Which are README.md and etl.sh. all other files should be deleted.
 - Remove # from line 321. That line is commented because this project was being uploaded on github.
 - Make sure you have a server and there is proper csv file inside a .bz2 compression.
 - If you don't have server you should comment step 1 and 2.
