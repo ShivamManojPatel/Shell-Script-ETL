@@ -27,7 +27,7 @@ What the script does
 11. Generates purchase.rpt:
     - Total purchase amount by state/gender
     - Rounded to nearest 100
-    - Sorted by amount DESC then state then gender
+    - Sorted by amount DESC, then state, then gender
 
 -------------------------------------
 Files Produced by Script
@@ -52,12 +52,14 @@ Check before running the script
 - Remove # from line 321. That line is commented out because this project was being uploaded to GitHub.
 - Make sure you have a server, and there is a proper CSV file inside a .bz2 compression.
 - If you don't have a server, you should comment out steps 1 and 2.
-- If you don't have csv stored on the server, but as a bz2 zip. You should comment on step 1.
-- If you have csv file locally and it is not compressed. You should comment steps 1 and 2 and add mv <absolute-path-to-file><your-filename>.<extension> transaction.csv before line 65.
+- If you don't have CSV stored on the server, but as a bz2 zip. You should comment on step 1.
+- If you have a CSV file locally and it is not compressed. You should comment out steps 1 and 2, and add the line **mv (absolute-path-to-file)/(your-filename).csv transaction.csv** before line 65.
 
 -------------------------------------
 Author
 -------------------------------------
 **Shivam Patel** <br>
 Course: CSCI 5305 - Linux/Unix System
+University of Central Arkansas - Department of Computer Science
+LinkedIn: https://www.linkedin.com/in/shivampatel19/
 
