@@ -1,7 +1,4 @@
-Project: ETL Processing Script
-Course: CSCI 5305 - Linux/Unix System
-Name: Shivam Patel
-
+# ETL Processing Script
 
 -------------------------------------
 How to run the script
@@ -49,12 +46,18 @@ Notes
 - No hard-coded paths; all arguments supplied at runtime.
 
 -------------------------------------
-Check before running script
+Check before running the script
 -------------------------------------
-- There should be just 2 file inside the folder. Which are README.md and etl.sh. all other files should be deleted.
-- Remove # from line 321. That line is commented because this project was being uploaded on github.
-- Make sure you have a server and there is proper csv file inside a .bz2 compression.
-- If you don't have server you should comment step 1 and 2.
-- If you dont have csv stored in server but as a bz2 zip. you should comment step 1.
-- If you have csv file locally and is not compressed. You should comment step 1 and 2 and add mv <absolute-path-to-file><your-filename>.<extention> transaction.csv before line 65.
+- There should be just 2 files inside the folder. Which are README.md and etl.sh. All other files should be deleted.
+- Remove # from line 321. That line is commented out because this project was being uploaded to GitHub.
+- Make sure you have a server, and there is a proper CSV file inside a .bz2 compression.
+- If you don't have a server, you should comment out steps 1 and 2.
+- If you don't have csv stored on the server, but as a bz2 zip. You should comment on step 1.
+- If you have csv file locally and it is not compressed. You should comment steps 1 and 2 and add mv <absolute-path-to-file><your-filename>.<extension> transaction.csv before line 65.
+
+-------------------------------------
+Author
+-------------------------------------
+**Shivam Patel** <br>
+Course: CSCI 5305 - Linux/Unix System
 
